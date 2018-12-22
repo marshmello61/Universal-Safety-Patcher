@@ -70,7 +70,7 @@ print_modname() {
   ui_print "    *******************************************"
   ui_print "    *         Universal Safety Patcher        *"
   ui_print "    *******************************************"
-  ui_print "    *               v10.1 beta6               *"
+  ui_print "    *               v10.1 beta8               *"
   ui_print "    *            by marshmello_61             *"
   ui_print "    *******************************************"
   ui_print " "
