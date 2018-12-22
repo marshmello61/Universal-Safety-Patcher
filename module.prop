@@ -1,8 +1,8 @@
 id=safetypatcherm
-name=Universal Safety Patcher + EIS
-version=v9.3/beta2
-versionCode=10
+name=Universal Safety Patcher
+version=v10.1/beta8
+versionCode=11
 author=marshmello_61 @xda-developers
-description=Passes Safety Net Check, So You Can Use Apps That Needs SafetyNet Pass + Adds EIS Support to Your Device by marshmello_61
+description=Passes Safety Net Check, So You Can Use Apps That Needs SafetyNet Pass like bankings apps, etc.
 support=If You Want to Support me, Just Give a Thanks on XDA (@marshmello_61) or Thanks Me on Telegram - t.me/marshmello_61
 minMagisk=1700
